@@ -1,0 +1,11 @@
+[build]
+  command = "cd dashboard && npm run build"
+  publish = "dashboard/out"
+
+[build.environment]
+  NODE_VERSION = "18"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

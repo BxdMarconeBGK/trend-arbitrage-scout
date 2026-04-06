@@ -37,9 +37,9 @@ async def collect_trends():
         try:
             trends = await collector.run()
             all_trends.extend(trends)
-            print(f"  ✓ {len(trends)} tendências coletadas")
+            print(f"  OK {len(trends)} tendencias coletadas")
         except Exception as e:
-            print(f"  ✗ Erro: {e}")
+            print(f"  ERRO: {e}")
     
     print(f"\n[Total] {len(all_trends)} tendências coletadas")
     
@@ -152,7 +152,7 @@ def generate_report(trends):
     md_content += f"""
 **Por Prioridade:**
 - 🔴 Priority: {report["by_action"].get('priority', 0)}
-- 🟡 Medium: {report["by_action'].get('medium', 0)}
+- 🟡 Medium: {report["by_action"].get("medium", 0)}
 - 🟢 Low: {report['by_action'].get('low', 0)}
 
 ---
@@ -174,7 +174,7 @@ async def main():
     trends = await collect_trends()
     
     if not trends:
-        print("\n✗ Nenhuma tendência coletada. Encerrando.")
+        print("\nERRO Nenhuma tendencia coletada. Encerrando.")
         return
     
     # 2. Analisar

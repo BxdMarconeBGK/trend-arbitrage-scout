@@ -59,12 +59,43 @@ Acesse: http://localhost:3000
 
 ## Deploy no Netlify
 
-1. Fork este repositório
-2. Vá para Netlify → "New site from Git"
-3. Selecione seu fork
-4. Build command: `npm run build`
-5. Publish directory: `dashboard/out`
-6. Deploy!
+O projeto está configurado para deploy automático no Netlify.
+
+### Opção 1: Deploy via Git (Recomendado)
+
+1. Fork este repositório (ou conecte seu repositório ao GitHub)
+2. Vá para https://app.netlify.com
+3. Clique em "Add new site" → "Import an existing project"
+4. Selecione seu repositório GitHub
+5. Configure:
+   - Build command: `cd dashboard && npm run build`
+   - Publish directory: `dashboard/out`
+   - Node version: `18`
+6. Clique em "Deploy"
+
+### Opção 2: Deploy via CLI
+
+```bash
+# Instale a Netlify CLI
+npm install -g netlify-cli
+
+# Autentique
+netlify login
+
+# Deploy draft (teste)
+netlify deploy --dir=dashboard/out
+
+# Deploy produção
+netlify deploy --dir=dashboard/out --prod
+```
+
+### Configuração Automática
+
+O projeto já inclui:
+- `netlify.toml` - configuração do build
+- `dashboard/next.config.js` - configuração para static export
+
+Acesse: `https://seu-site.netlify.app`
 
 ## Automação Semanal
 
