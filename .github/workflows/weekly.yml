@@ -1,0 +1,44 @@
+name: Trend Arbitrage Scout - Weekly Run
+
+on:
+  schedule:
+    # Every Monday at 8:00 AM UTC (5:00 AM Brasília)
+    - cron: '0 8 * * 1'
+  workflow_dispatch:
+    # Allow manual trigger
+
+jobs:
+  collect-and-analyze:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install --with-deps
+      
+      - name: Run pipeline
+        env:
+          LM_STUDIO_URL: ${{ secrets.LM_STUDIO_URL }}
+        run: python scripts/run_pipeline.py
+      
+      - name: Upload results
+        uses: actions/upload-artifact@v4
+        with:
+          name: trend-report
+          path: data/
+          retention-days: 30
+      
+      - name: Commit results
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "📊 Update trend report - ${{ github.sha }}"
+          file_pattern: data/*
