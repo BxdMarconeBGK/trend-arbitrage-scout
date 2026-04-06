@@ -1,0 +1,2477 @@
+[
+  {
+    "source": "hackernews",
+    "source_id": "47655408",
+    "name": "Show HN: I built a tiny LLM to demystify how language models work",
+    "description": "Built a ~9M param LLM from scratch to understand how they actually work. Vanilla transformer, 60K synthetic conversations, ~130 lines of PyTorch. Trains in 5 min on a free Colab T4. The fish thinks the meaning of life is food.<p>Fork it and swap the personality for your own character.",
+    "url": "https://github.com/arman-bd/guppylm",
+    "category": "tech",
+    "metrics": {
+      "score": 358,
+      "comments": 31
+    },
+    "detected_at": "2026-04-06T04:57:08.309326",
+    "raw_data": {
+      "id": "47655408",
+      "name": "Show HN: I built a tiny LLM to demystify how language models work",
+      "description": "Built a ~9M param LLM from scratch to understand how they actually work. Vanilla transformer, 60K synthetic conversations, ~130 lines of PyTorch. Trains in 5 min on a free Colab T4. The fish thinks the meaning of life is food.<p>Fork it and swap the personality for your own character.",
+      "url": "https://github.com/arman-bd/guppylm",
+      "category": "tech",
+      "metrics": {
+        "score": 358,
+        "comments": 31
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:13.310341"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47652561",
+    "name": "Gemma 4 on iPhone",
+    "description": "",
+    "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+    "category": "tech",
+    "metrics": {
+      "score": 585,
+      "comments": 156
+    },
+    "detected_at": "2026-04-06T04:57:08.309360",
+    "raw_data": {
+      "id": "47652561",
+      "name": "Gemma 4 on iPhone",
+      "description": "",
+      "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+      "category": "tech",
+      "metrics": {
+        "score": 585,
+        "comments": 156
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:15.341677"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47656622",
+    "name": "An open-source 240-antenna array to bounce signals off the Moon",
+    "description": "",
+    "url": "https://moonrf.com/",
+    "category": "tech",
+    "metrics": {
+      "score": 78,
+      "comments": 12
+    },
+    "detected_at": "2026-04-06T04:57:08.309366",
+    "raw_data": {
+      "id": "47656622",
+      "name": "An open-source 240-antenna array to bounce signals off the Moon",
+      "description": "",
+      "url": "https://moonrf.com/",
+      "category": "tech",
+      "metrics": {
+        "score": 78,
+        "comments": 12
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:17.374934"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47651703",
+    "name": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+    "description": "See also <a href=\"https:&#x2F;&#x2F;x.com&#x2F;stevesi&#x2F;status&#x2F;2036921223150440542\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;stevesi&#x2F;status&#x2F;2036921223150440542</a> (<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;stevesi&#x2F;status&#x2F;2036921223150440542\" rel=\"nofollow\">https:&#",
+    "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+    "category": "tech",
+    "metrics": {
+      "score": 387,
+      "comments": 225
+    },
+    "detected_at": "2026-04-06T04:57:08.309371",
+    "raw_data": {
+      "id": "47651703",
+      "name": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+      "description": "See also <a href=\"https:&#x2F;&#x2F;x.com&#x2F;stevesi&#x2F;status&#x2F;2036921223150440542\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;stevesi&#x2F;status&#x2F;2036921223150440542</a> (<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;stevesi&#x2F;status&#x2F;2036921223150440542\" rel=\"nofollow\">https:&#",
+      "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+      "category": "tech",
+      "metrics": {
+        "score": 387,
+        "comments": 225
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:19.421916"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47652007",
+    "name": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+    "description": "Related: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47653752\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47653752</a>",
+    "url": "https://github.com/fikrikarim/parlor",
+    "category": "tech",
+    "metrics": {
+      "score": 56,
+      "comments": 2
+    },
+    "detected_at": "2026-04-06T04:57:08.309376",
+    "raw_data": {
+      "id": "47652007",
+      "name": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+      "description": "Related: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47653752\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47653752</a>",
+      "url": "https://github.com/fikrikarim/parlor",
+      "category": "tech",
+      "metrics": {
+        "score": 56,
+        "comments": 2
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:21.462713"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47656501",
+    "name": "The 1987 game “The Last Ninja” was 40 kilobytes",
+    "description": "",
+    "url": "https://twitter.com/exQUIZitely/status/2040777977521398151",
+    "category": "tech",
+    "metrics": {
+      "score": 68,
+      "comments": 25
+    },
+    "detected_at": "2026-04-06T04:57:08.309380",
+    "raw_data": {
+      "id": "47656501",
+      "name": "The 1987 game “The Last Ninja” was 40 kilobytes",
+      "description": "",
+      "url": "https://twitter.com/exQUIZitely/status/2040777977521398151",
+      "category": "tech",
+      "metrics": {
+        "score": 68,
+        "comments": 25
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:23.494604"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47655392",
+    "name": "Show HN: I made a YouTube search form with advanced filters",
+    "description": "",
+    "url": "https://playlists.at/youtube/search/",
+    "category": "tech",
+    "metrics": {
+      "score": 205,
+      "comments": 130
+    },
+    "detected_at": "2026-04-06T04:57:08.309384",
+    "raw_data": {
+      "id": "47655392",
+      "name": "Show HN: I made a YouTube search form with advanced filters",
+      "description": "",
+      "url": "https://playlists.at/youtube/search/",
+      "category": "tech",
+      "metrics": {
+        "score": 205,
+        "comments": 130
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:25.550288"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47637377",
+    "name": "LÖVE: 2D Game Framework for Lua",
+    "description": "",
+    "url": "https://github.com/love2d/love",
+    "category": "tech",
+    "metrics": {
+      "score": 283,
+      "comments": 111
+    },
+    "detected_at": "2026-04-06T04:57:08.309389",
+    "raw_data": {
+      "id": "47637377",
+      "name": "LÖVE: 2D Game Framework for Lua",
+      "description": "",
+      "url": "https://github.com/love2d/love",
+      "category": "tech",
+      "metrics": {
+        "score": 283,
+        "comments": 111
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:27.589108"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47637116",
+    "name": "Signals, the push-pull based algorithm",
+    "description": "",
+    "url": "https://willybrauner.com/journal/signal-the-push-pull-based-algorithm",
+    "category": "tech",
+    "metrics": {
+      "score": 27,
+      "comments": 5
+    },
+    "detected_at": "2026-04-06T04:57:08.309393",
+    "raw_data": {
+      "id": "47637116",
+      "name": "Signals, the push-pull based algorithm",
+      "description": "",
+      "url": "https://willybrauner.com/journal/signal-the-push-pull-based-algorithm",
+      "category": "tech",
+      "metrics": {
+        "score": 27,
+        "comments": 5
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:29.628218"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47655367",
+    "name": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+    "description": "Gemma Gem is a Chrome extension that loads Google&#x27;s Gemma 4 (2B) through WebGPU in an offscreen document and gives it tools to interact with any webpage: read content, take screenshots, click elements, type text, scroll, and run JavaScript.<p>You get a small chat overlay on every page. Ask it a",
+    "url": "https://github.com/kessler/gemma-gem",
+    "category": "tech",
+    "metrics": {
+      "score": 61,
+      "comments": 11
+    },
+    "detected_at": "2026-04-06T04:57:08.309398",
+    "raw_data": {
+      "id": "47655367",
+      "name": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+      "description": "Gemma Gem is a Chrome extension that loads Google&#x27;s Gemma 4 (2B) through WebGPU in an offscreen document and gives it tools to interact with any webpage: read content, take screenshots, click elements, type text, scroll, and run JavaScript.<p>You get a small chat overlay on every page. Ask it a",
+      "url": "https://github.com/kessler/gemma-gem",
+      "category": "tech",
+      "metrics": {
+        "score": 61,
+        "comments": 11
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:31.673369"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47656303",
+    "name": "Case study: recovery of a corrupted 12 TB multi-device pool",
+    "description": "",
+    "url": "https://github.com/kdave/btrfs-progs/issues/1107",
+    "category": "tech",
+    "metrics": {
+      "score": 51,
+      "comments": 13
+    },
+    "detected_at": "2026-04-06T04:57:08.309402",
+    "raw_data": {
+      "id": "47656303",
+      "name": "Case study: recovery of a corrupted 12 TB multi-device pool",
+      "description": "",
+      "url": "https://github.com/kdave/btrfs-progs/issues/1107",
+      "category": "tech",
+      "metrics": {
+        "score": 51,
+        "comments": 13
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:33.721927"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47652400",
+    "name": "Why Switzerland has 25 Gbit internet and America doesn't",
+    "description": "",
+    "url": "https://sschueller.github.io/posts/the-free-market-lie/",
+    "category": "tech",
+    "metrics": {
+      "score": 425,
+      "comments": 324
+    },
+    "detected_at": "2026-04-06T04:57:08.309406",
+    "raw_data": {
+      "id": "47652400",
+      "name": "Why Switzerland has 25 Gbit internet and America doesn't",
+      "description": "",
+      "url": "https://sschueller.github.io/posts/the-free-market-lie/",
+      "category": "tech",
+      "metrics": {
+        "score": 425,
+        "comments": 324
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:35.777413"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47613827",
+    "name": "One ant for $220: The new frontier of wildlife trafficking",
+    "description": "",
+    "url": "https://www.bbc.com/news/articles/cg4g44zv37qo",
+    "category": "tech",
+    "metrics": {
+      "score": 13,
+      "comments": 0
+    },
+    "detected_at": "2026-04-06T04:57:08.309410",
+    "raw_data": {
+      "id": "47613827",
+      "name": "One ant for $220: The new frontier of wildlife trafficking",
+      "description": "",
+      "url": "https://www.bbc.com/news/articles/cg4g44zv37qo",
+      "category": "tech",
+      "metrics": {
+        "score": 13,
+        "comments": 0
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:37.836496"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47651540",
+    "name": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+    "description": "",
+    "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+    "category": "tech",
+    "metrics": {
+      "score": 254,
+      "comments": 61
+    },
+    "detected_at": "2026-04-06T04:57:08.309414",
+    "raw_data": {
+      "id": "47651540",
+      "name": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+      "description": "",
+      "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+      "category": "tech",
+      "metrics": {
+        "score": 254,
+        "comments": 61
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:39.894261"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47656682",
+    "name": "Winners of the 2026 Kokuyo Design Awards",
+    "description": "",
+    "url": "https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/",
+    "category": "tech",
+    "metrics": {
+      "score": 45,
+      "comments": 8
+    },
+    "detected_at": "2026-04-06T04:57:08.309418",
+    "raw_data": {
+      "id": "47656682",
+      "name": "Winners of the 2026 Kokuyo Design Awards",
+      "description": "",
+      "url": "https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/",
+      "category": "tech",
+      "metrics": {
+        "score": 45,
+        "comments": 8
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:41.944891"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47636456",
+    "name": "Sheets Spreadsheets in Your Terminal",
+    "description": "",
+    "url": "https://github.com/maaslalani/sheets",
+    "category": "tech",
+    "metrics": {
+      "score": 51,
+      "comments": 8
+    },
+    "detected_at": "2026-04-06T04:57:08.309422",
+    "raw_data": {
+      "id": "47636456",
+      "name": "Sheets Spreadsheets in Your Terminal",
+      "description": "",
+      "url": "https://github.com/maaslalani/sheets",
+      "category": "tech",
+      "metrics": {
+        "score": 51,
+        "comments": 8
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:44.003049"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47656114",
+    "name": "We replaced Node.js with Bun for 5x throughput",
+    "description": "",
+    "url": "https://trigger.dev/blog/firebun",
+    "category": "tech",
+    "metrics": {
+      "score": 50,
+      "comments": 25
+    },
+    "detected_at": "2026-04-06T04:57:08.309426",
+    "raw_data": {
+      "id": "47656114",
+      "name": "We replaced Node.js with Bun for 5x throughput",
+      "description": "",
+      "url": "https://trigger.dev/blog/firebun",
+      "category": "tech",
+      "metrics": {
+        "score": 50,
+        "comments": 25
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:46.045243"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47655268",
+    "name": "Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",
+    "description": "",
+    "url": "https://github.com/mohshomis/modo",
+    "category": "tech",
+    "metrics": {
+      "score": 42,
+      "comments": 8
+    },
+    "detected_at": "2026-04-06T04:57:08.309430",
+    "raw_data": {
+      "id": "47655268",
+      "name": "Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",
+      "description": "",
+      "url": "https://github.com/mohshomis/modo",
+      "category": "tech",
+      "metrics": {
+        "score": 42,
+        "comments": 8
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:48.088548"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47655466",
+    "name": "Employers use your personal data to figure out the lowest salary you'll accept",
+    "description": "",
+    "url": "https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb",
+    "category": "tech",
+    "metrics": {
+      "score": 184,
+      "comments": 94
+    },
+    "detected_at": "2026-04-06T04:57:08.309435",
+    "raw_data": {
+      "id": "47655466",
+      "name": "Employers use your personal data to figure out the lowest salary you'll accept",
+      "description": "",
+      "url": "https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb",
+      "category": "tech",
+      "metrics": {
+        "score": 184,
+        "comments": 94
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:50.138482"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47656659",
+    "name": "Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice",
+    "description": "",
+    "url": "https://github.com/mikf/gallery-dl/discussions/9304",
+    "category": "tech",
+    "metrics": {
+      "score": 123,
+      "comments": 35
+    },
+    "detected_at": "2026-04-06T04:57:08.309439",
+    "raw_data": {
+      "id": "47656659",
+      "name": "Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice",
+      "description": "",
+      "url": "https://github.com/mikf/gallery-dl/discussions/9304",
+      "category": "tech",
+      "metrics": {
+        "score": 123,
+        "comments": 35
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:52.185107"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47655905",
+    "name": "Usenet Archives",
+    "description": "",
+    "url": "https://usenetarchives.com",
+    "category": "tech",
+    "metrics": {
+      "score": 30,
+      "comments": 5
+    },
+    "detected_at": "2026-04-06T04:57:08.309443",
+    "raw_data": {
+      "id": "47655905",
+      "name": "Usenet Archives",
+      "description": "",
+      "url": "https://usenetarchives.com",
+      "category": "tech",
+      "metrics": {
+        "score": 30,
+        "comments": 5
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:54.216059"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47652322",
+    "name": "Music for Programming",
+    "description": "",
+    "url": "https://musicforprogramming.net",
+    "category": "tech",
+    "metrics": {
+      "score": 170,
+      "comments": 76
+    },
+    "detected_at": "2026-04-06T04:57:08.309447",
+    "raw_data": {
+      "id": "47652322",
+      "name": "Music for Programming",
+      "description": "",
+      "url": "https://musicforprogramming.net",
+      "category": "tech",
+      "metrics": {
+        "score": 170,
+        "comments": 76
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:56.261001"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47650312",
+    "name": "A tail-call interpreter in (nightly) Rust",
+    "description": "",
+    "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
+    "category": "tech",
+    "metrics": {
+      "score": 154,
+      "comments": 35
+    },
+    "detected_at": "2026-04-06T04:57:08.309451",
+    "raw_data": {
+      "id": "47650312",
+      "name": "A tail-call interpreter in (nightly) Rust",
+      "description": "",
+      "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
+      "category": "tech",
+      "metrics": {
+        "score": 154,
+        "comments": 35
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:58.303302"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47648828",
+    "name": "Eight years of wanting, three months of building with AI",
+    "description": "",
+    "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+    "category": "tech",
+    "metrics": {
+      "score": 757,
+      "comments": 228
+    },
+    "detected_at": "2026-04-06T04:57:08.309454",
+    "raw_data": {
+      "id": "47648828",
+      "name": "Eight years of wanting, three months of building with AI",
+      "description": "",
+      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "category": "tech",
+      "metrics": {
+        "score": 757,
+        "comments": 228
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:00.343237"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47650502",
+    "name": "Computational Physics (2nd Edition) (2025)",
+    "description": "",
+    "url": "https://websites.umich.edu/~mejn/cp2/",
+    "category": "tech",
+    "metrics": {
+      "score": 135,
+      "comments": 19
+    },
+    "detected_at": "2026-04-06T04:57:08.309459",
+    "raw_data": {
+      "id": "47650502",
+      "name": "Computational Physics (2nd Edition) (2025)",
+      "description": "",
+      "url": "https://websites.umich.edu/~mejn/cp2/",
+      "category": "tech",
+      "metrics": {
+        "score": 135,
+        "comments": 19
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:02.385790"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47649721",
+    "name": "Artemis II crew see first glimpse of far side of Moon [video]",
+    "description": "",
+    "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
+    "category": "tech",
+    "metrics": {
+      "score": 473,
+      "comments": 364
+    },
+    "detected_at": "2026-04-06T04:57:08.309463",
+    "raw_data": {
+      "id": "47649721",
+      "name": "Artemis II crew see first glimpse of far side of Moon [video]",
+      "description": "",
+      "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
+      "category": "tech",
+      "metrics": {
+        "score": 473,
+        "comments": 364
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:04.422106"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47647455",
+    "name": "Caveman: Why use many token when few token do trick",
+    "description": "",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "category": "tech",
+    "metrics": {
+      "score": 756,
+      "comments": 329
+    },
+    "detected_at": "2026-04-06T04:57:08.309467",
+    "raw_data": {
+      "id": "47647455",
+      "name": "Caveman: Why use many token when few token do trick",
+      "description": "",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "category": "tech",
+      "metrics": {
+        "score": 756,
+        "comments": 329
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:06.487578"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47654171",
+    "name": "The Mechanics of Steins Gate (2023) [pdf]",
+    "description": "",
+    "url": "https://github.com/Votuko/steins-gate-mechanics/blob/main/The%20Mechanics%20of%20Steins%20Gate%20v1.0.3.pdf",
+    "category": "tech",
+    "metrics": {
+      "score": 74,
+      "comments": 14
+    },
+    "detected_at": "2026-04-06T04:57:08.309471",
+    "raw_data": {
+      "id": "47654171",
+      "name": "The Mechanics of Steins Gate (2023) [pdf]",
+      "description": "",
+      "url": "https://github.com/Votuko/steins-gate-mechanics/blob/main/The%20Mechanics%20of%20Steins%20Gate%20v1.0.3.pdf",
+      "category": "tech",
+      "metrics": {
+        "score": 74,
+        "comments": 14
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:08.519905"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47654620",
+    "name": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
+    "description": "",
+    "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+    "category": "tech",
+    "metrics": {
+      "score": 160,
+      "comments": 190
+    },
+    "detected_at": "2026-04-06T04:57:08.309475",
+    "raw_data": {
+      "id": "47654620",
+      "name": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
+      "description": "",
+      "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "category": "tech",
+      "metrics": {
+        "score": 160,
+        "comments": 190
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:10.575473"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47649742",
+    "name": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
+    "description": "",
+    "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
+    "category": "tech",
+    "metrics": {
+      "score": 183,
+      "comments": 24
+    },
+    "detected_at": "2026-04-06T04:57:08.309479",
+    "raw_data": {
+      "id": "47649742",
+      "name": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
+      "description": "",
+      "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
+      "category": "tech",
+      "metrics": {
+        "score": 183,
+        "comments": 24
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:12.620208"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sa4rlx",
+    "name": "[D] Self-Promotion Thread",
+    "description": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc.\n\nPlease mention the payment and pricing requirements for products and services.\n\nPlease do not post link shorteners, link aggregator websites , or auto-subscribe links.\n\n\\--\n\nAny abuse of trust will lea",
+    "url": "https://reddit.com/r/MachineLearning/comments/1sa4rlx/d_selfpromotion_thread/",
+    "category": "MachineLearning",
+    "metrics": {
+      "score": 11,
+      "comments": 29
+    },
+    "detected_at": "2026-04-06T04:57:11.236525",
+    "raw_data": {
+      "id": "1sa4rlx",
+      "name": "[D] Self-Promotion Thread",
+      "description": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc.\n\nPlease mention the payment and pricing requirements for products and services.\n\nPlease do not post link shorteners, link aggregator websites , or auto-subscribe links.\n\n\\--\n\nAny abuse of trust will lea",
+      "url": "https://reddit.com/r/MachineLearning/comments/1sa4rlx/d_selfpromotion_thread/",
+      "category": "MachineLearning",
+      "metrics": {
+        "score": 11,
+        "comments": 29
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:14.659428"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1s8b199",
+    "name": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+    "description": "**For Job Postings** please use this template\n\n&gt;Hiring: \\[Location\\], Salary:\\[\\], \\[Remote | Relocation\\], \\[Full Time | Contract | Part Time\\]    and \\[Brief overview, what you're looking for\\]\n\n**For Those looking for jobs** please use this template\n\n&gt;Want to be Hired: \\[Location\\], Salary ",
+    "url": "https://reddit.com/r/MachineLearning/comments/1s8b199/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+    "category": "MachineLearning",
+    "metrics": {
+      "score": 6,
+      "comments": 1
+    },
+    "detected_at": "2026-04-06T04:57:11.236552",
+    "raw_data": {
+      "id": "1s8b199",
+      "name": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "description": "**For Job Postings** please use this template\n\n&gt;Hiring: \\[Location\\], Salary:\\[\\], \\[Remote | Relocation\\], \\[Full Time | Contract | Part Time\\]    and \\[Brief overview, what you're looking for\\]\n\n**For Those looking for jobs** please use this template\n\n&gt;Want to be Hired: \\[Location\\], Salary ",
+      "url": "https://reddit.com/r/MachineLearning/comments/1s8b199/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "category": "MachineLearning",
+      "metrics": {
+        "score": 6,
+        "comments": 1
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:16.715879"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sdmn97",
+    "name": "[D] How to break free from LLM's chains as a PhD student?",
+    "description": "I didn't realize but over a period of one year i have become overreliant on ChatGPT to write code, I am a second year PhD student and don't want to end up as someone with fake \"coding skills\" after I graduate. I hear people talk about it all the time that use LLM to write boring parts of the code, a",
+    "url": "https://reddit.com/r/MachineLearning/comments/1sdmn97/d_how_to_break_free_from_llms_chains_as_a_phd/",
+    "category": "MachineLearning",
+    "metrics": {
+      "score": 96,
+      "comments": 40
+    },
+    "detected_at": "2026-04-06T04:57:11.236566",
+    "raw_data": {
+      "id": "1sdmn97",
+      "name": "[D] How to break free from LLM's chains as a PhD student?",
+      "description": "I didn't realize but over a period of one year i have become overreliant on ChatGPT to write code, I am a second year PhD student and don't want to end up as someone with fake \"coding skills\" after I graduate. I hear people talk about it all the time that use LLM to write boring parts of the code, a",
+      "url": "https://reddit.com/r/MachineLearning/comments/1sdmn97/d_how_to_break_free_from_llms_chains_as_a_phd/",
+      "category": "MachineLearning",
+      "metrics": {
+        "score": 96,
+        "comments": 40
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:18.763071"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sdh08w",
+    "name": "[P] Dante-2B: I'm training a 2.1B bilingual fully open Italian/English LLM from scratch on 2×H200. Phase 1 done — here's what I've built.",
+    "description": "# The problem\n\nIf you work with Italian text and local models, you know the pain. Every open-source LLM out there treats Italian as an afterthought — English-first tokenizer, English-first data, maybe some Italian sprinkled in during fine-tuning. The result: bloated token counts, poor morphology han",
+    "url": "https://reddit.com/r/MachineLearning/comments/1sdh08w/p_dante2b_im_training_a_21b_bilingual_fully_open/",
+    "category": "MachineLearning",
+    "metrics": {
+      "score": 32,
+      "comments": 6
+    },
+    "detected_at": "2026-04-06T04:57:11.236580",
+    "raw_data": {
+      "id": "1sdh08w",
+      "name": "[P] Dante-2B: I'm training a 2.1B bilingual fully open Italian/English LLM from scratch on 2×H200. Phase 1 done — here's what I've built.",
+      "description": "# The problem\n\nIf you work with Italian text and local models, you know the pain. Every open-source LLM out there treats Italian as an afterthought — English-first tokenizer, English-first data, maybe some Italian sprinkled in during fine-tuning. The result: bloated token counts, poor morphology han",
+      "url": "https://reddit.com/r/MachineLearning/comments/1sdh08w/p_dante2b_im_training_a_21b_bilingual_fully_open/",
+      "category": "MachineLearning",
+      "metrics": {
+        "score": 32,
+        "comments": 6
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:20.792594"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sd8kqx",
+    "name": "[D] Is research in semantic segmentation saturated?",
+    "description": "Nowadays I dont see a lot of papers addressing 2D semantic segmentation problem statements be it supervised, semi-supervised, domain adaptation. Is the problem statement saturated? Are there any promising research directions in segmentation except open-set segmentation?",
+    "url": "https://reddit.com/r/MachineLearning/comments/1sd8kqx/d_is_research_in_semantic_segmentation_saturated/",
+    "category": "MachineLearning",
+    "metrics": {
+      "score": 18,
+      "comments": 11
+    },
+    "detected_at": "2026-04-06T04:57:11.236592",
+    "raw_data": {
+      "id": "1sd8kqx",
+      "name": "[D] Is research in semantic segmentation saturated?",
+      "description": "Nowadays I dont see a lot of papers addressing 2D semantic segmentation problem statements be it supervised, semi-supervised, domain adaptation. Is the problem statement saturated? Are there any promising research directions in segmentation except open-set segmentation?",
+      "url": "https://reddit.com/r/MachineLearning/comments/1sd8kqx/d_is_research_in_semantic_segmentation_saturated/",
+      "category": "MachineLearning",
+      "metrics": {
+        "score": 18,
+        "comments": 11
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:22.843499"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sdrunm",
+    "name": "[R] Looking for a highly accurate background sweeper tool.",
+    "description": "I’m looking for a workflow or tool that handles object extraction and background replacement with a focus on absolute realism. I’ve experimented with standard LLMs and basic AI removers (remove.bg, etc.), but the edges and lighting never feel \"baked in.\"\n\nSpecifically, I need:\n\n\\- High Fidelity Mask",
+    "url": "https://reddit.com/r/MachineLearning/comments/1sdrunm/r_looking_for_a_highly_accurate_background/",
+    "category": "MachineLearning",
+    "metrics": {
+      "score": 1,
+      "comments": 0
+    },
+    "detected_at": "2026-04-06T04:57:11.236605",
+    "raw_data": {
+      "id": "1sdrunm",
+      "name": "[R] Looking for a highly accurate background sweeper tool.",
+      "description": "I’m looking for a workflow or tool that handles object extraction and background replacement with a focus on absolute realism. I’ve experimented with standard LLMs and basic AI removers (remove.bg, etc.), but the edges and lighting never feel \"baked in.\"\n\nSpecifically, I need:\n\n\\- High Fidelity Mask",
+      "url": "https://reddit.com/r/MachineLearning/comments/1sdrunm/r_looking_for_a_highly_accurate_background/",
+      "category": "MachineLearning",
+      "metrics": {
+        "score": 1,
+        "comments": 0
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:24.888213"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sd0aex",
+    "name": "[D] ICML Rebuttle Acknowledgement",
+    "description": "I've received 3 out of 4 acknowledgements, All of them basically are choosing Option A without changing their scores, because their initial scores were already positive. Meanwhile, the 4th reviewer had already given me a 3 and still hasn’t replied.\n\nWhat frustrates me is that I didn’t just clarify a",
+    "url": "https://reddit.com/r/MachineLearning/comments/1sd0aex/d_icml_rebuttle_acknowledgement/",
+    "category": "MachineLearning",
+    "metrics": {
+      "score": 37,
+      "comments": 17
+    },
+    "detected_at": "2026-04-06T04:57:11.236613",
+    "raw_data": {
+      "id": "1sd0aex",
+      "name": "[D] ICML Rebuttle Acknowledgement",
+      "description": "I've received 3 out of 4 acknowledgements, All of them basically are choosing Option A without changing their scores, because their initial scores were already positive. Meanwhile, the 4th reviewer had already given me a 3 and still hasn’t replied.\n\nWhat frustrates me is that I didn’t just clarify a",
+      "url": "https://reddit.com/r/MachineLearning/comments/1sd0aex/d_icml_rebuttle_acknowledgement/",
+      "category": "MachineLearning",
+      "metrics": {
+        "score": 37,
+        "comments": 17
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:26.932331"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sdaknc",
+    "name": "[P] Fused MoE Dispatch in Pure Triton: Beating CUDA-Optimized Megablocks at Inference Batch Sizes",
+    "description": "I built a fused MoE dispatch kernel in pure Triton that handles the full forward pass for Mixture-of-Experts models. No CUDA, no vendor-specific code.\n\nOn Mixtral-8x7B (A100), it beats Stanford's Megablocks at inference-relevant batch sizes (131% at 32 tokens, 124% at 128 tokens). At larger batches ",
+    "url": "https://reddit.com/r/MachineLearning/comments/1sdaknc/p_fused_moe_dispatch_in_pure_triton_beating/",
+    "category": "MachineLearning",
+    "metrics": {
+      "score": 5,
+      "comments": 0
+    },
+    "detected_at": "2026-04-06T04:57:11.236621",
+    "raw_data": {
+      "id": "1sdaknc",
+      "name": "[P] Fused MoE Dispatch in Pure Triton: Beating CUDA-Optimized Megablocks at Inference Batch Sizes",
+      "description": "I built a fused MoE dispatch kernel in pure Triton that handles the full forward pass for Mixture-of-Experts models. No CUDA, no vendor-specific code.\n\nOn Mixtral-8x7B (A100), it beats Stanford's Megablocks at inference-relevant batch sizes (131% at 32 tokens, 124% at 128 tokens). At larger batches ",
+      "url": "https://reddit.com/r/MachineLearning/comments/1sdaknc/p_fused_moe_dispatch_in_pure_triton_beating/",
+      "category": "MachineLearning",
+      "metrics": {
+        "score": 5,
+        "comments": 0
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:28.983886"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sd5rt3",
+    "name": "[D] ICML Rebuttal Question",
+    "description": "I am currently working on my response on the rebuttal acknowledgments for ICML and I doubting how to handle the strawman argument of that the method is not \"novel\". We were able to address all other concerns, but the reviewers keep up with this argument. \n\nThe issue is that our approach is mostly no",
+    "url": "https://reddit.com/r/MachineLearning/comments/1sd5rt3/d_icml_rebuttal_question/",
+    "category": "MachineLearning",
+    "metrics": {
+      "score": 8,
+      "comments": 7
+    },
+    "detected_at": "2026-04-06T04:57:11.236628",
+    "raw_data": {
+      "id": "1sd5rt3",
+      "name": "[D] ICML Rebuttal Question",
+      "description": "I am currently working on my response on the rebuttal acknowledgments for ICML and I doubting how to handle the strawman argument of that the method is not \"novel\". We were able to address all other concerns, but the reviewers keep up with this argument. \n\nThe issue is that our approach is mostly no",
+      "url": "https://reddit.com/r/MachineLearning/comments/1sd5rt3/d_icml_rebuttal_question/",
+      "category": "MachineLearning",
+      "metrics": {
+        "score": 8,
+        "comments": 7
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:31.020301"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1scvhk8",
+    "name": "[D] Hash table aspects of ReLU neural networks",
+    "description": "If you collect the ReLU decisions into a diagonal matrix with 0 or 1 entries then a ReLU layer is DWx, where W is the weight matrix and x the input.\n\nWhat then is Wₙ₊₁Dₙ where Wₙ₊₁ is the matrix of weights for the next layer?\n\nIt can be seen as  a (locality sensitive) hash table lookup of a linear m",
+    "url": "https://reddit.com/r/MachineLearning/comments/1scvhk8/d_hash_table_aspects_of_relu_neural_networks/",
+    "category": "MachineLearning",
+    "metrics": {
+      "score": 35,
+      "comments": 5
+    },
+    "detected_at": "2026-04-06T04:57:11.236637",
+    "raw_data": {
+      "id": "1scvhk8",
+      "name": "[D] Hash table aspects of ReLU neural networks",
+      "description": "If you collect the ReLU decisions into a diagonal matrix with 0 or 1 entries then a ReLU layer is DWx, where W is the weight matrix and x the input.\n\nWhat then is Wₙ₊₁Dₙ where Wₙ₊₁ is the matrix of weights for the next layer?\n\nIt can be seen as  a (locality sensitive) hash table lookup of a linear m",
+      "url": "https://reddit.com/r/MachineLearning/comments/1scvhk8/d_hash_table_aspects_of_relu_neural_networks/",
+      "category": "MachineLearning",
+      "metrics": {
+        "score": 35,
+        "comments": 5
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:33.062342"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sdjzoh",
+    "name": "[P] SpeakFlow - AI Dialogue Practice Coach with GLM 5.1",
+    "description": "Built SpeakFlow for the [Z.AI](http://Z.AI) Builder Series hackathon. AI dialogue practice coach that evaluates your spoken responses in real-time.\n\n\n\nTwo modes: Practice (AI evaluates accuracy/grammar/fluency) and Presentation (lines hidden, hints available, instant scoring).\n\n\n\nSupports 11 languag",
+    "url": "https://reddit.com/r/MachineLearning/comments/1sdjzoh/p_speakflow_ai_dialogue_practice_coach_with_glm_51/",
+    "category": "MachineLearning",
+    "metrics": {
+      "score": 0,
+      "comments": 0
+    },
+    "detected_at": "2026-04-06T04:57:11.236645",
+    "raw_data": {
+      "id": "1sdjzoh",
+      "name": "[P] SpeakFlow - AI Dialogue Practice Coach with GLM 5.1",
+      "description": "Built SpeakFlow for the [Z.AI](http://Z.AI) Builder Series hackathon. AI dialogue practice coach that evaluates your spoken responses in real-time.\n\n\n\nTwo modes: Practice (AI evaluates accuracy/grammar/fluency) and Presentation (lines hidden, hints available, instant scoring).\n\n\n\nSupports 11 languag",
+      "url": "https://reddit.com/r/MachineLearning/comments/1sdjzoh/p_speakflow_ai_dialogue_practice_coach_with_glm_51/",
+      "category": "MachineLearning",
+      "metrics": {
+        "score": 0,
+        "comments": 0
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:35.122800"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sdjgt0",
+    "name": "[R] ICML Anonymized git repos for rebuttal",
+    "description": "A number of the papers I'm reviewing for have submitted additional figures and code through anonymized git repos (e.g. [https://anonymous.4open.science/](https://anonymous.4open.science/)) to help supplement their rebuttal. Is this against any policy?\n\nI'm considering submitting additional graphs du",
+    "url": "https://reddit.com/r/MachineLearning/comments/1sdjgt0/r_icml_anonymized_git_repos_for_rebuttal/",
+    "category": "MachineLearning",
+    "metrics": {
+      "score": 1,
+      "comments": 3
+    },
+    "detected_at": "2026-04-06T04:57:11.236653",
+    "raw_data": {
+      "id": "1sdjgt0",
+      "name": "[R] ICML Anonymized git repos for rebuttal",
+      "description": "A number of the papers I'm reviewing for have submitted additional figures and code through anonymized git repos (e.g. [https://anonymous.4open.science/](https://anonymous.4open.science/)) to help supplement their rebuttal. Is this against any policy?\n\nI'm considering submitting additional graphs du",
+      "url": "https://reddit.com/r/MachineLearning/comments/1sdjgt0/r_icml_anonymized_git_repos_for_rebuttal/",
+      "category": "MachineLearning",
+      "metrics": {
+        "score": 1,
+        "comments": 3
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:37.179467"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sdieuq",
+    "name": "[R] Reference model free behavioral discovery of AudiBench model organisms via Probe-Mediated Adaptive Auditing",
+    "description": "**TL;DR:** I built a reference-free method to detect secretly planted behaviors in LLMs - no base model needed. It matches or beats Anthropic's known-origin baselines on 3/4 AuditBench organisms. The surprise finding - the same method accidentally surfaces where Llama 70B's RLHF training made it lop",
+    "url": "https://reddit.com/r/MachineLearning/comments/1sdieuq/r_reference_model_free_behavioral_discovery_of/",
+    "category": "MachineLearning",
+    "metrics": {
+      "score": 0,
+      "comments": 2
+    },
+    "detected_at": "2026-04-06T04:57:11.236661",
+    "raw_data": {
+      "id": "1sdieuq",
+      "name": "[R] Reference model free behavioral discovery of AudiBench model organisms via Probe-Mediated Adaptive Auditing",
+      "description": "**TL;DR:** I built a reference-free method to detect secretly planted behaviors in LLMs - no base model needed. It matches or beats Anthropic's known-origin baselines on 3/4 AuditBench organisms. The surprise finding - the same method accidentally surfaces where Llama 70B's RLHF training made it lop",
+      "url": "https://reddit.com/r/MachineLearning/comments/1sdieuq/r_reference_model_free_behavioral_discovery_of/",
+      "category": "MachineLearning",
+      "metrics": {
+        "score": 0,
+        "comments": 2
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:39.232608"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sdneq4",
+    "name": "[R] deadlines for main conferences",
+    "description": "hi, i was just wondering when were the deadlines this year for the most prestigious main conferences not workshop, along with when the results come out. thanks!",
+    "url": "https://reddit.com/r/MachineLearning/comments/1sdneq4/r_deadlines_for_main_conferences/",
+    "category": "MachineLearning",
+    "metrics": {
+      "score": 0,
+      "comments": 5
+    },
+    "detected_at": "2026-04-06T04:57:11.236671",
+    "raw_data": {
+      "id": "1sdneq4",
+      "name": "[R] deadlines for main conferences",
+      "description": "hi, i was just wondering when were the deadlines this year for the most prestigious main conferences not workshop, along with when the results come out. thanks!",
+      "url": "https://reddit.com/r/MachineLearning/comments/1sdneq4/r_deadlines_for_main_conferences/",
+      "category": "MachineLearning",
+      "metrics": {
+        "score": 0,
+        "comments": 5
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:41.270442"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sci9nh",
+    "name": "[D] KDD Review Discussion",
+    "description": "KDD 2026 (Feb Cycle) reviews will release today (4-April AoE), This thread is open to discuss about reviews and importantly celebrate successful reviews.\n\nLet us all remember that review system is noisy and we all suffer from it and this doesn't define our research impact. Let's all prioritise revie",
+    "url": "https://reddit.com/r/MachineLearning/comments/1sci9nh/d_kdd_review_discussion/",
+    "category": "MachineLearning",
+    "metrics": {
+      "score": 42,
+      "comments": 61
+    },
+    "detected_at": "2026-04-06T04:57:11.236682",
+    "raw_data": {
+      "id": "1sci9nh",
+      "name": "[D] KDD Review Discussion",
+      "description": "KDD 2026 (Feb Cycle) reviews will release today (4-April AoE), This thread is open to discuss about reviews and importantly celebrate successful reviews.\n\nLet us all remember that review system is noisy and we all suffer from it and this doesn't define our research impact. Let's all prioritise revie",
+      "url": "https://reddit.com/r/MachineLearning/comments/1sci9nh/d_kdd_review_discussion/",
+      "category": "MachineLearning",
+      "metrics": {
+        "score": 42,
+        "comments": 61
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:43.324189"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sbzxwn",
+    "name": "[D] Those of you with 10+ years in ML — what is the public completely wrong about?",
+    "description": "For those of you who've been in ML/AI research or applied ML for 10+ years — what's the gap between what the public thinks AI is doing vs. what's actually happening at the frontier? What are we collectively underestimating or overestimating?",
+    "url": "https://reddit.com/r/MachineLearning/comments/1sbzxwn/d_those_of_you_with_10_years_in_ml_what_is_the/",
+    "category": "MachineLearning",
+    "metrics": {
+      "score": 196,
+      "comments": 223
+    },
+    "detected_at": "2026-04-06T04:57:11.236690",
+    "raw_data": {
+      "id": "1sbzxwn",
+      "name": "[D] Those of you with 10+ years in ML — what is the public completely wrong about?",
+      "description": "For those of you who've been in ML/AI research or applied ML for 10+ years — what's the gap between what the public thinks AI is doing vs. what's actually happening at the frontier? What are we collectively underestimating or overestimating?",
+      "url": "https://reddit.com/r/MachineLearning/comments/1sbzxwn/d_those_of_you_with_10_years_in_ml_what_is_the/",
+      "category": "MachineLearning",
+      "metrics": {
+        "score": 196,
+        "comments": 223
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:45.371578"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1scjzer",
+    "name": "[P] MCGrad: fix calibration of your ML model in subgroups",
+    "description": "Hi r/MachineLearning,\n\nWe’re open-sourcing **MCGrad**, a Python package for multicalibration–developed and deployed in production at Meta. This work will also be presented at KDD 2026.\n\n**The Problem:** A model can be globally calibrated yet significantly miscalibrated within identifiable subgroups ",
+    "url": "https://reddit.com/r/MachineLearning/comments/1scjzer/p_mcgrad_fix_calibration_of_your_ml_model_in/",
+    "category": "MachineLearning",
+    "metrics": {
+      "score": 7,
+      "comments": 0
+    },
+    "detected_at": "2026-04-06T04:57:11.236697",
+    "raw_data": {
+      "id": "1scjzer",
+      "name": "[P] MCGrad: fix calibration of your ML model in subgroups",
+      "description": "Hi r/MachineLearning,\n\nWe’re open-sourcing **MCGrad**, a Python package for multicalibration–developed and deployed in production at Meta. This work will also be presented at KDD 2026.\n\n**The Problem:** A model can be globally calibrated yet significantly miscalibrated within identifiable subgroups ",
+      "url": "https://reddit.com/r/MachineLearning/comments/1scjzer/p_mcgrad_fix_calibration_of_your_ml_model_in/",
+      "category": "MachineLearning",
+      "metrics": {
+        "score": 7,
+        "comments": 0
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:47.416980"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sc79nk",
+    "name": "[D] ICML reviewer making up false claim in acknowledgement, what to do?",
+    "description": "In a rebuttal acknowledgement we received, the reviewer made up a claim that our method performs worse than baselines with some hyperparameter settings. We did do a comprehensive list of hyperparameter comparisons and the reviewer's claim is not supported by what's presented in the paper.\n\nIn this c",
+    "url": "https://reddit.com/r/MachineLearning/comments/1sc79nk/d_icml_reviewer_making_up_false_claim_in/",
+    "category": "MachineLearning",
+    "metrics": {
+      "score": 30,
+      "comments": 17
+    },
+    "detected_at": "2026-04-06T04:57:11.236705",
+    "raw_data": {
+      "id": "1sc79nk",
+      "name": "[D] ICML reviewer making up false claim in acknowledgement, what to do?",
+      "description": "In a rebuttal acknowledgement we received, the reviewer made up a claim that our method performs worse than baselines with some hyperparameter settings. We did do a comprehensive list of hyperparameter comparisons and the reviewer's claim is not supported by what's presented in the paper.\n\nIn this c",
+      "url": "https://reddit.com/r/MachineLearning/comments/1sc79nk/d_icml_reviewer_making_up_false_claim_in/",
+      "category": "MachineLearning",
+      "metrics": {
+        "score": 30,
+        "comments": 17
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:49.478644"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sd3ppx",
+    "name": "[D] ML researcher looking to switch to a product company.",
+    "description": "Hey,\n\nI am an AI researcher currently working in a deep tech company as a data scientist. Prior to this, I was doing my PhD. My current role involves working ok physics related problems and the project life cycle could be 2-4 years and the change comes in my company very slowly. The problems are qui",
+    "url": "https://reddit.com/r/MachineLearning/comments/1sd3ppx/d_ml_researcher_looking_to_switch_to_a_product/",
+    "category": "MachineLearning",
+    "metrics": {
+      "score": 0,
+      "comments": 1
+    },
+    "detected_at": "2026-04-06T04:57:11.236713",
+    "raw_data": {
+      "id": "1sd3ppx",
+      "name": "[D] ML researcher looking to switch to a product company.",
+      "description": "Hey,\n\nI am an AI researcher currently working in a deep tech company as a data scientist. Prior to this, I was doing my PhD. My current role involves working ok physics related problems and the project life cycle could be 2-4 years and the change comes in my company very slowly. The problems are qui",
+      "url": "https://reddit.com/r/MachineLearning/comments/1sd3ppx/d_ml_researcher_looking_to_switch_to_a_product/",
+      "category": "MachineLearning",
+      "metrics": {
+        "score": 0,
+        "comments": 1
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:51.503580"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sdb7ne",
+    "name": "[D] The memory chip market lost tens of billions over a paper this community would have understood in 10 minutes",
+    "description": "TurboQuant was teased recently and tens of billions gone from memory chip market in 48 hours but anyone in this community who read the paper would have seen the problem with the panic immediately.\n\nTurboQuant compresses the KV cache down to 3 bits per value from the standard 16 using polar coordinat",
+    "url": "https://reddit.com/r/MachineLearning/comments/1sdb7ne/d_the_memory_chip_market_lost_tens_of_billions/",
+    "category": "MachineLearning",
+    "metrics": {
+      "score": 0,
+      "comments": 5
+    },
+    "detected_at": "2026-04-06T04:57:11.236720",
+    "raw_data": {
+      "id": "1sdb7ne",
+      "name": "[D] The memory chip market lost tens of billions over a paper this community would have understood in 10 minutes",
+      "description": "TurboQuant was teased recently and tens of billions gone from memory chip market in 48 hours but anyone in this community who read the paper would have seen the problem with the panic immediately.\n\nTurboQuant compresses the KV cache down to 3 bits per value from the standard 16 using polar coordinat",
+      "url": "https://reddit.com/r/MachineLearning/comments/1sdb7ne/d_the_memory_chip_market_lost_tens_of_billions/",
+      "category": "MachineLearning",
+      "metrics": {
+        "score": 0,
+        "comments": 5
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:53.558357"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1scaajx",
+    "name": "[D] ICML Reviewer Acknowledgement",
+    "description": "Hi, I'm a little confused about ICML discussion period\n\n\nDoes the period for reviewer acknowledging responses have already ended?\n\n\nOne of the four reviewers did not present any answer to a paper of mine. Do you know if the reviewer can still change their score before April 7th? \n\nThere is a reviewe",
+    "url": "https://reddit.com/r/MachineLearning/comments/1scaajx/d_icml_reviewer_acknowledgement/",
+    "category": "MachineLearning",
+    "metrics": {
+      "score": 12,
+      "comments": 14
+    },
+    "detected_at": "2026-04-06T04:57:11.236728",
+    "raw_data": {
+      "id": "1scaajx",
+      "name": "[D] ICML Reviewer Acknowledgement",
+      "description": "Hi, I'm a little confused about ICML discussion period\n\n\nDoes the period for reviewer acknowledging responses have already ended?\n\n\nOne of the four reviewers did not present any answer to a paper of mine. Do you know if the reviewer can still change their score before April 7th? \n\nThere is a reviewe",
+      "url": "https://reddit.com/r/MachineLearning/comments/1scaajx/d_icml_reviewer_acknowledgement/",
+      "category": "MachineLearning",
+      "metrics": {
+        "score": 12,
+        "comments": 14
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:55.614382"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sbyfpm",
+    "name": "[D] ACL 2026 Decision",
+    "description": "ACL 2026 decision are soon to be published (&lt;= 24 hr). Thought it might be nice to to have a thread for updates, discussions and venting.",
+    "url": "https://reddit.com/r/MachineLearning/comments/1sbyfpm/d_acl_2026_decision/",
+    "category": "MachineLearning",
+    "metrics": {
+      "score": 53,
+      "comments": 74
+    },
+    "detected_at": "2026-04-06T04:57:11.236735",
+    "raw_data": {
+      "id": "1sbyfpm",
+      "name": "[D] ACL 2026 Decision",
+      "description": "ACL 2026 decision are soon to be published (&lt;= 24 hr). Thought it might be nice to to have a thread for updates, discussions and venting.",
+      "url": "https://reddit.com/r/MachineLearning/comments/1sbyfpm/d_acl_2026_decision/",
+      "category": "MachineLearning",
+      "metrics": {
+        "score": 53,
+        "comments": 74
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:57.638945"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1scm9do",
+    "name": "[P] Cadenza: Connect Wandb logs to agents easily for autonomous research.",
+    "description": "Wandb CLI and MCP is atrocious to use with agents for full autonomous research loops. They are slow, clunky, and result in context rot.\n\nSo I built a CLI tool and a Python SDK to make it easy to connect your Wandb projects and runs to your agent (clawed or otherwise).\n\n  \nThe cli tool works by allow",
+    "url": "https://reddit.com/r/MachineLearning/comments/1scm9do/p_cadenza_connect_wandb_logs_to_agents_easily_for/",
+    "category": "MachineLearning",
+    "metrics": {
+      "score": 0,
+      "comments": 1
+    },
+    "detected_at": "2026-04-06T04:57:11.236743",
+    "raw_data": {
+      "id": "1scm9do",
+      "name": "[P] Cadenza: Connect Wandb logs to agents easily for autonomous research.",
+      "description": "Wandb CLI and MCP is atrocious to use with agents for full autonomous research loops. They are slow, clunky, and result in context rot.\n\nSo I built a CLI tool and a Python SDK to make it easy to connect your Wandb projects and runs to your agent (clawed or otherwise).\n\n  \nThe cli tool works by allow",
+      "url": "https://reddit.com/r/MachineLearning/comments/1scm9do/p_cadenza_connect_wandb_logs_to_agents_easily_for/",
+      "category": "MachineLearning",
+      "metrics": {
+        "score": 0,
+        "comments": 1
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:58:59.672406"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sbv9jl",
+    "name": "[P] GPU friendly lossless 12-bit BF16 format with 0.03% escape rate and 1 integer ADD decode works for AMD &amp; NVIDIA",
+    "description": "Hi everyone, I am from Australia : )  I just released a new research prototype\n\nIt’s a **lossless BF16 compression format** that stores weights in **12 bits** by replacing the 8-bit exponent with a **4-bit group code**.  \nFor **99.97% of weights**, decoding is just **one integer ADD**.\n\nByte-aligned",
+    "url": "https://reddit.com/r/MachineLearning/comments/1sbv9jl/p_gpu_friendly_lossless_12bit_bf16_format_with/",
+    "category": "MachineLearning",
+    "metrics": {
+      "score": 25,
+      "comments": 8
+    },
+    "detected_at": "2026-04-06T04:57:11.236752",
+    "raw_data": {
+      "id": "1sbv9jl",
+      "name": "[P] GPU friendly lossless 12-bit BF16 format with 0.03% escape rate and 1 integer ADD decode works for AMD &amp; NVIDIA",
+      "description": "Hi everyone, I am from Australia : )  I just released a new research prototype\n\nIt’s a **lossless BF16 compression format** that stores weights in **12 bits** by replacing the 8-bit exponent with a **4-bit group code**.  \nFor **99.97% of weights**, decoding is just **one integer ADD**.\n\nByte-aligned",
+      "url": "https://reddit.com/r/MachineLearning/comments/1sbv9jl/p_gpu_friendly_lossless_12bit_bf16_format_with/",
+      "category": "MachineLearning",
+      "metrics": {
+        "score": 25,
+        "comments": 8
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:59:01.706089"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sc5o71",
+    "name": "Best OCR for template-based form extraction? [D]",
+    "description": "Hi, I’m working on a school project and I’m currently testing OCR tools for forms.\n\nThe documents are mostly structured or semi-structured forms, similar to application/registration forms with labeled fields and sections. My idea is that an admin uploads a template of the document first, then a user",
+    "url": "https://reddit.com/r/MachineLearning/comments/1sc5o71/best_ocr_for_templatebased_form_extraction_d/",
+    "category": "MachineLearning",
+    "metrics": {
+      "score": 4,
+      "comments": 4
+    },
+    "detected_at": "2026-04-06T04:57:11.236760",
+    "raw_data": {
+      "id": "1sc5o71",
+      "name": "Best OCR for template-based form extraction? [D]",
+      "description": "Hi, I’m working on a school project and I’m currently testing OCR tools for forms.\n\nThe documents are mostly structured or semi-structured forms, similar to application/registration forms with labeled fields and sections. My idea is that an admin uploads a template of the document first, then a user",
+      "url": "https://reddit.com/r/MachineLearning/comments/1sc5o71/best_ocr_for_templatebased_form_extraction_d/",
+      "category": "MachineLearning",
+      "metrics": {
+        "score": 4,
+        "comments": 4
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:59:03.753808"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1qlis15",
+    "name": "Monthly Post: SaaS Deals + Offers",
+    "description": "This is a monthly post where SaaS founders can offer deals/discounts on their products. \n\n&amp;#x200B;\n\n**For sellers (SaaS people)**\n\n* There is no required format for posting, but make an effort to clearly present the deal/offer. It's in your interest to get people to make use of this!\n   * State ",
+    "url": "https://reddit.com/r/SaaS/comments/1qlis15/monthly_post_saas_deals_offers/",
+    "category": "SaaS",
+    "metrics": {
+      "score": 35,
+      "comments": 435
+    },
+    "detected_at": "2026-04-06T04:57:11.236768",
+    "raw_data": {
+      "id": "1qlis15",
+      "name": "Monthly Post: SaaS Deals + Offers",
+      "description": "This is a monthly post where SaaS founders can offer deals/discounts on their products. \n\n&amp;#x200B;\n\n**For sellers (SaaS people)**\n\n* There is no required format for posting, but make an effort to clearly present the deal/offer. It's in your interest to get people to make use of this!\n   * State ",
+      "url": "https://reddit.com/r/SaaS/comments/1qlis15/monthly_post_saas_deals_offers/",
+      "category": "SaaS",
+      "metrics": {
+        "score": 35,
+        "comments": 435
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:59:05.822910"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1s293p4",
+    "name": "Monthly Post: SaaS Deals + Offers",
+    "description": "This is a monthly post where SaaS founders can offer deals/discounts on their products. \n\n&amp;#x200B;\n\n**For sellers (SaaS people)**\n\n* There is no required format for posting, but make an effort to clearly present the deal/offer. It's in your interest to get people to make use of this!\n   * State ",
+    "url": "https://reddit.com/r/SaaS/comments/1s293p4/monthly_post_saas_deals_offers/",
+    "category": "SaaS",
+    "metrics": {
+      "score": 5,
+      "comments": 74
+    },
+    "detected_at": "2026-04-06T04:57:11.236776",
+    "raw_data": {
+      "id": "1s293p4",
+      "name": "Monthly Post: SaaS Deals + Offers",
+      "description": "This is a monthly post where SaaS founders can offer deals/discounts on their products. \n\n&amp;#x200B;\n\n**For sellers (SaaS people)**\n\n* There is no required format for posting, but make an effort to clearly present the deal/offer. It's in your interest to get people to make use of this!\n   * State ",
+      "url": "https://reddit.com/r/SaaS/comments/1s293p4/monthly_post_saas_deals_offers/",
+      "category": "SaaS",
+      "metrics": {
+        "score": 5,
+        "comments": 74
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:59:07.861107"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sdlxby",
+    "name": "SaaS is not dying",
+    "description": "This is a common thing, but what most people don’t realize is that 99% of people aren’t going to create their own programs, websites, apps, AI. They prefer to just buy it. Also all because there’s more low quality SaaS doesn’t mean that there’s more competition. There’s always been thousands of note",
+    "url": "https://reddit.com/r/SaaS/comments/1sdlxby/saas_is_not_dying/",
+    "category": "SaaS",
+    "metrics": {
+      "score": 52,
+      "comments": 44
+    },
+    "detected_at": "2026-04-06T04:57:11.236794",
+    "raw_data": {
+      "id": "1sdlxby",
+      "name": "SaaS is not dying",
+      "description": "This is a common thing, but what most people don’t realize is that 99% of people aren’t going to create their own programs, websites, apps, AI. They prefer to just buy it. Also all because there’s more low quality SaaS doesn’t mean that there’s more competition. There’s always been thousands of note",
+      "url": "https://reddit.com/r/SaaS/comments/1sdlxby/saas_is_not_dying/",
+      "category": "SaaS",
+      "metrics": {
+        "score": 52,
+        "comments": 44
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:59:09.916318"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sdohse",
+    "name": "Offered unlimited usage on our entry plan. 4 power users consumed 60% of our server costs while paying $29/mo each.",
+    "description": "$29/mo plan. \"Unlimited projects. Unlimited storage. Unlimited API calls.\" Sounded generous. Good marketing.\n\nThen 4 users discovered exactly how unlimited we meant.\n\nOne was running an automated process that made 14,000 API calls per day. Another had uploaded 800GB of files. A third was using our p",
+    "url": "https://reddit.com/r/SaaS/comments/1sdohse/offered_unlimited_usage_on_our_entry_plan_4_power/",
+    "category": "SaaS",
+    "metrics": {
+      "score": 27,
+      "comments": 15
+    },
+    "detected_at": "2026-04-06T04:57:11.236815",
+    "raw_data": {
+      "id": "1sdohse",
+      "name": "Offered unlimited usage on our entry plan. 4 power users consumed 60% of our server costs while paying $29/mo each.",
+      "description": "$29/mo plan. \"Unlimited projects. Unlimited storage. Unlimited API calls.\" Sounded generous. Good marketing.\n\nThen 4 users discovered exactly how unlimited we meant.\n\nOne was running an automated process that made 14,000 API calls per day. Another had uploaded 800GB of files. A third was using our p",
+      "url": "https://reddit.com/r/SaaS/comments/1sdohse/offered_unlimited_usage_on_our_entry_plan_4_power/",
+      "category": "SaaS",
+      "metrics": {
+        "score": 27,
+        "comments": 15
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:59:11.966057"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sdnxcn",
+    "name": "what payment platform are you using for a SaaS with customers in 15+ countries?",
+    "description": "Context: B2B SaaS, ~$40k MRR, customers in US, UK, EU, Australia, and a few in SE Asia. Right now we use Stripe for collections which works fine but the payout side is a mess. We're paying contractors in 4 currencies, running ads in USD and GBP, and our team expenses are split across 3 countries. Ev",
+    "url": "https://reddit.com/r/SaaS/comments/1sdnxcn/what_payment_platform_are_you_using_for_a_saas/",
+    "category": "SaaS",
+    "metrics": {
+      "score": 19,
+      "comments": 20
+    },
+    "detected_at": "2026-04-06T04:57:11.236824",
+    "raw_data": {
+      "id": "1sdnxcn",
+      "name": "what payment platform are you using for a SaaS with customers in 15+ countries?",
+      "description": "Context: B2B SaaS, ~$40k MRR, customers in US, UK, EU, Australia, and a few in SE Asia. Right now we use Stripe for collections which works fine but the payout side is a mess. We're paying contractors in 4 currencies, running ads in USD and GBP, and our team expenses are split across 3 countries. Ev",
+      "url": "https://reddit.com/r/SaaS/comments/1sdnxcn/what_payment_platform_are_you_using_for_a_saas/",
+      "category": "SaaS",
+      "metrics": {
+        "score": 19,
+        "comments": 20
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:59:14.013766"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sdezl5",
+    "name": "The \"10x engineer\" doesn't exist. But the \"0.1x decision-maker\" absolutely does and it's usually the founder.",
+    "description": "Everyone talks about 10x engineers. Mythical developers who produce 10 times the output of average engineers.\n\nNobody talks about the 0.1x decision-maker. The person who assigns the 10x engineer to build something nobody needs. Who approves a 3-month project that should have been a 2-week experiment",
+    "url": "https://reddit.com/r/SaaS/comments/1sdezl5/the_10x_engineer_doesnt_exist_but_the_01x/",
+    "category": "SaaS",
+    "metrics": {
+      "score": 54,
+      "comments": 8
+    },
+    "detected_at": "2026-04-06T04:57:11.236832",
+    "raw_data": {
+      "id": "1sdezl5",
+      "name": "The \"10x engineer\" doesn't exist. But the \"0.1x decision-maker\" absolutely does and it's usually the founder.",
+      "description": "Everyone talks about 10x engineers. Mythical developers who produce 10 times the output of average engineers.\n\nNobody talks about the 0.1x decision-maker. The person who assigns the 10x engineer to build something nobody needs. Who approves a 3-month project that should have been a 2-week experiment",
+      "url": "https://reddit.com/r/SaaS/comments/1sdezl5/the_10x_engineer_doesnt_exist_but_the_01x/",
+      "category": "SaaS",
+      "metrics": {
+        "score": 54,
+        "comments": 8
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:59:16.066842"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sd4bmy",
+    "name": "Wrong customer segment found our product. They pay 3x more and churn 4x less than our target market.",
+    "description": "Built a scheduling tool for personal trainers. That was the plan. Marketing targeted trainers. Landing page spoke to trainers. Content was about fitness.\n\nThen physical therapists started signing up. Not a lot. Maybe 10-15% of new signups. I mostly ignored them because they weren't our ICP.\n\nLooked ",
+    "url": "https://reddit.com/r/SaaS/comments/1sd4bmy/wrong_customer_segment_found_our_product_they_pay/",
+    "category": "SaaS",
+    "metrics": {
+      "score": 188,
+      "comments": 49
+    },
+    "detected_at": "2026-04-06T04:57:11.236840",
+    "raw_data": {
+      "id": "1sd4bmy",
+      "name": "Wrong customer segment found our product. They pay 3x more and churn 4x less than our target market.",
+      "description": "Built a scheduling tool for personal trainers. That was the plan. Marketing targeted trainers. Landing page spoke to trainers. Content was about fitness.\n\nThen physical therapists started signing up. Not a lot. Maybe 10-15% of new signups. I mostly ignored them because they weren't our ICP.\n\nLooked ",
+      "url": "https://reddit.com/r/SaaS/comments/1sd4bmy/wrong_customer_segment_found_our_product_they_pay/",
+      "category": "SaaS",
+      "metrics": {
+        "score": 188,
+        "comments": 49
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:59:18.107865"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sdo30y",
+    "name": "33,003 LinkedIn followers in 6 months. 10,965 leads captured. 0 cold DMs sent.",
+    "description": "So I realized most people post on LinkedIn like they're throwing darts blindfolded. They guess the topic. They test random formats. They get 12 likes and wonder what went wrong.\n\nI was doing the same thing 6 months ago with 0 followers. Today I'm at 33,003. I get 5 to 10 warm leads every single week",
+    "url": "https://reddit.com/r/SaaS/comments/1sdo30y/33003_linkedin_followers_in_6_months_10965_leads/",
+    "category": "SaaS",
+    "metrics": {
+      "score": 13,
+      "comments": 18
+    },
+    "detected_at": "2026-04-06T04:57:11.236849",
+    "raw_data": {
+      "id": "1sdo30y",
+      "name": "33,003 LinkedIn followers in 6 months. 10,965 leads captured. 0 cold DMs sent.",
+      "description": "So I realized most people post on LinkedIn like they're throwing darts blindfolded. They guess the topic. They test random formats. They get 12 likes and wonder what went wrong.\n\nI was doing the same thing 6 months ago with 0 followers. Today I'm at 33,003. I get 5 to 10 warm leads every single week",
+      "url": "https://reddit.com/r/SaaS/comments/1sdo30y/33003_linkedin_followers_in_6_months_10965_leads/",
+      "category": "SaaS",
+      "metrics": {
+        "score": 13,
+        "comments": 18
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:59:20.162356"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sdgfbc",
+    "name": "r/SaaS has become unreadable AI slop and the mods don’t care",
+    "description": "r/saas has become unreadable. every other post is chatgpt-generated “5 things i learned” fluff with zero specifics, no product name, no real numbers. just recycled platitudes farmed for karma. the comments are even worse, half bots and half people dropping links pretending to help. you scroll past 2",
+    "url": "https://reddit.com/r/SaaS/comments/1sdgfbc/rsaas_has_become_unreadable_ai_slop_and_the_mods/",
+    "category": "SaaS",
+    "metrics": {
+      "score": 28,
+      "comments": 4
+    },
+    "detected_at": "2026-04-06T04:57:11.236865",
+    "raw_data": {
+      "id": "1sdgfbc",
+      "name": "r/SaaS has become unreadable AI slop and the mods don’t care",
+      "description": "r/saas has become unreadable. every other post is chatgpt-generated “5 things i learned” fluff with zero specifics, no product name, no real numbers. just recycled platitudes farmed for karma. the comments are even worse, half bots and half people dropping links pretending to help. you scroll past 2",
+      "url": "https://reddit.com/r/SaaS/comments/1sdgfbc/rsaas_has_become_unreadable_ai_slop_and_the_mods/",
+      "category": "SaaS",
+      "metrics": {
+        "score": 28,
+        "comments": 4
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:59:22.201575"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sd8lyu",
+    "name": "Got accepted into a top accelerator. It was the wrong move for my business. Lost 4 months of momentum.",
+    "description": "Applied on a whim. Got in. $125K investment for 7% equity. 3-month program. Demo day at the end. The prestige alone felt worth it.\n\nHere's what actually happened during those 3 months.\n\nWeek 1-2: orientation, team dinners, office setup. I moved cities temporarily. Disrupted everything.\n\nWeek 3-8: wo",
+    "url": "https://reddit.com/r/SaaS/comments/1sd8lyu/got_accepted_into_a_top_accelerator_it_was_the/",
+    "category": "SaaS",
+    "metrics": {
+      "score": 54,
+      "comments": 12
+    },
+    "detected_at": "2026-04-06T04:57:11.236878",
+    "raw_data": {
+      "id": "1sd8lyu",
+      "name": "Got accepted into a top accelerator. It was the wrong move for my business. Lost 4 months of momentum.",
+      "description": "Applied on a whim. Got in. $125K investment for 7% equity. 3-month program. Demo day at the end. The prestige alone felt worth it.\n\nHere's what actually happened during those 3 months.\n\nWeek 1-2: orientation, team dinners, office setup. I moved cities temporarily. Disrupted everything.\n\nWeek 3-8: wo",
+      "url": "https://reddit.com/r/SaaS/comments/1sd8lyu/got_accepted_into_a_top_accelerator_it_was_the/",
+      "category": "SaaS",
+      "metrics": {
+        "score": 54,
+        "comments": 12
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:59:24.235466"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sd50dh",
+    "name": "Outsourced development to save money. $18K later I had code nobody on my team could maintain or understand.",
+    "description": "Solo founder. Non-technical. Found an offshore agency through a referral. $35/hr. Scoped the project at 500 hours. $17,500. Compared to US rates that felt like stealing.\n\nFirst 3 months went fine on the surface. Weekly demos. Features appearing. Progress reports. The product looked right.\n\nThen I hi",
+    "url": "https://reddit.com/r/SaaS/comments/1sd50dh/outsourced_development_to_save_money_18k_later_i/",
+    "category": "SaaS",
+    "metrics": {
+      "score": 73,
+      "comments": 61
+    },
+    "detected_at": "2026-04-06T04:57:11.236893",
+    "raw_data": {
+      "id": "1sd50dh",
+      "name": "Outsourced development to save money. $18K later I had code nobody on my team could maintain or understand.",
+      "description": "Solo founder. Non-technical. Found an offshore agency through a referral. $35/hr. Scoped the project at 500 hours. $17,500. Compared to US rates that felt like stealing.\n\nFirst 3 months went fine on the surface. Weekly demos. Features appearing. Progress reports. The product looked right.\n\nThen I hi",
+      "url": "https://reddit.com/r/SaaS/comments/1sd50dh/outsourced_development_to_save_money_18k_later_i/",
+      "category": "SaaS",
+      "metrics": {
+        "score": 73,
+        "comments": 61
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:59:26.293964"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sdhl12",
+    "name": "I'm doing 10 free landing page audits today (for SaaS founders)",
+    "description": "Been reviewing a lot of SaaS pages recently and noticing the same patterns killing conversions.  \nInstead of just posting about it, I want to go deeper.   \nSo I’ll do 10 quick audits today — no fluff, just what’s likely hurting conversions and what I’d fix first.  \nIf you want one, drop:\n\n• your lan",
+    "url": "https://reddit.com/r/SaaS/comments/1sdhl12/im_doing_10_free_landing_page_audits_today_for/",
+    "category": "SaaS",
+    "metrics": {
+      "score": 13,
+      "comments": 50
+    },
+    "detected_at": "2026-04-06T04:57:11.236902",
+    "raw_data": {
+      "id": "1sdhl12",
+      "name": "I'm doing 10 free landing page audits today (for SaaS founders)",
+      "description": "Been reviewing a lot of SaaS pages recently and noticing the same patterns killing conversions.  \nInstead of just posting about it, I want to go deeper.   \nSo I’ll do 10 quick audits today — no fluff, just what’s likely hurting conversions and what I’d fix first.  \nIf you want one, drop:\n\n• your lan",
+      "url": "https://reddit.com/r/SaaS/comments/1sdhl12/im_doing_10_free_landing_page_audits_today_for/",
+      "category": "SaaS",
+      "metrics": {
+        "score": 13,
+        "comments": 50
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:59:28.325044"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sdrgct",
+    "name": "Does your site show up on AI engines?",
+    "description": "Lately I’ve been going down a rabbit hole on how websites appear (or don’t) inside AI tools like ChatGPT, Perplexity, and other answer engines.\n\nWhat surprised me is how different this feels from traditional SEO. It’s less about rankings and more about whether your content is even being picked up, c",
+    "url": "https://reddit.com/r/SaaS/comments/1sdrgct/does_your_site_show_up_on_ai_engines/",
+    "category": "SaaS",
+    "metrics": {
+      "score": 3,
+      "comments": 2
+    },
+    "detected_at": "2026-04-06T04:57:11.236910",
+    "raw_data": {
+      "id": "1sdrgct",
+      "name": "Does your site show up on AI engines?",
+      "description": "Lately I’ve been going down a rabbit hole on how websites appear (or don’t) inside AI tools like ChatGPT, Perplexity, and other answer engines.\n\nWhat surprised me is how different this feels from traditional SEO. It’s less about rankings and more about whether your content is even being picked up, c",
+      "url": "https://reddit.com/r/SaaS/comments/1sdrgct/does_your_site_show_up_on_ai_engines/",
+      "category": "SaaS",
+      "metrics": {
+        "score": 3,
+        "comments": 2
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:59:30.367124"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sdpde2",
+    "name": "Most SaaS founders are picking AI models very wrong.",
+    "description": "They benchmark on demos. They read comparison posts. They pick the model that scored highest on some leaderboard from three months ago.\n\nIn production the model is rarely the problem. The prompt is the problem. The context structure is the problem. The output handling is the problem.\n\nGPT-4 with a p",
+    "url": "https://reddit.com/r/SaaS/comments/1sdpde2/most_saas_founders_are_picking_ai_models_very/",
+    "category": "SaaS",
+    "metrics": {
+      "score": 4,
+      "comments": 3
+    },
+    "detected_at": "2026-04-06T04:57:11.236919",
+    "raw_data": {
+      "id": "1sdpde2",
+      "name": "Most SaaS founders are picking AI models very wrong.",
+      "description": "They benchmark on demos. They read comparison posts. They pick the model that scored highest on some leaderboard from three months ago.\n\nIn production the model is rarely the problem. The prompt is the problem. The context structure is the problem. The output handling is the problem.\n\nGPT-4 with a p",
+      "url": "https://reddit.com/r/SaaS/comments/1sdpde2/most_saas_founders_are_picking_ai_models_very/",
+      "category": "SaaS",
+      "metrics": {
+        "score": 4,
+        "comments": 3
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:59:32.405853"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sdqxns",
+    "name": "How should I go about introducing my new SaaS product to the market?",
+    "description": "I'm getting ready to launch my first SaaS product, and I'm struggling to determine the best approach for the launch.  I'm not sure which of the several launch options Product Hunt, reddit discussions, email marketing, etc will have the biggest impact.\n\nI want to ensure that my launch:\n\n\\-Reaches the",
+    "url": "https://reddit.com/r/SaaS/comments/1sdqxns/how_should_i_go_about_introducing_my_new_saas/",
+    "category": "SaaS",
+    "metrics": {
+      "score": 3,
+      "comments": 7
+    },
+    "detected_at": "2026-04-06T04:57:11.236928",
+    "raw_data": {
+      "id": "1sdqxns",
+      "name": "How should I go about introducing my new SaaS product to the market?",
+      "description": "I'm getting ready to launch my first SaaS product, and I'm struggling to determine the best approach for the launch.  I'm not sure which of the several launch options Product Hunt, reddit discussions, email marketing, etc will have the biggest impact.\n\nI want to ensure that my launch:\n\n\\-Reaches the",
+      "url": "https://reddit.com/r/SaaS/comments/1sdqxns/how_should_i_go_about_introducing_my_new_saas/",
+      "category": "SaaS",
+      "metrics": {
+        "score": 3,
+        "comments": 7
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:59:34.423241"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sdp62u",
+    "name": "Best setup for side SaaS in UAE (no visa needed)? Freelance vs company vs offshore",
+    "description": "Hey folks,\n\nI’m currently based in Dubai and working full-time, but I’m planning to start a **side SaaS project** (global audience, subscription-based). I’m trying to figure out the best way to legally set things up in the UAE — and honestly, the options are a bit overwhelming.\n\nSome context:\n\n* Thi",
+    "url": "https://reddit.com/r/SaaS/comments/1sdp62u/best_setup_for_side_saas_in_uae_no_visa_needed/",
+    "category": "SaaS",
+    "metrics": {
+      "score": 4,
+      "comments": 6
+    },
+    "detected_at": "2026-04-06T04:57:11.236936",
+    "raw_data": {
+      "id": "1sdp62u",
+      "name": "Best setup for side SaaS in UAE (no visa needed)? Freelance vs company vs offshore",
+      "description": "Hey folks,\n\nI’m currently based in Dubai and working full-time, but I’m planning to start a **side SaaS project** (global audience, subscription-based). I’m trying to figure out the best way to legally set things up in the UAE — and honestly, the options are a bit overwhelming.\n\nSome context:\n\n* Thi",
+      "url": "https://reddit.com/r/SaaS/comments/1sdp62u/best_setup_for_side_saas_in_uae_no_visa_needed/",
+      "category": "SaaS",
+      "metrics": {
+        "score": 4,
+        "comments": 6
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:59:36.482740"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sdryof",
+    "name": "for people how use form builders/form backends. after the data collection, how do you process/consume the data? what do your next steps look like?",
+    "description": "",
+    "url": "https://reddit.com/r/SaaS/comments/1sdryof/for_people_how_use_form_buildersform_backends/",
+    "category": "SaaS",
+    "metrics": {
+      "score": 2,
+      "comments": 0
+    },
+    "detected_at": "2026-04-06T04:57:11.236946",
+    "raw_data": {
+      "id": "1sdryof",
+      "name": "for people how use form builders/form backends. after the data collection, how do you process/consume the data? what do your next steps look like?",
+      "description": "",
+      "url": "https://reddit.com/r/SaaS/comments/1sdryof/for_people_how_use_form_buildersform_backends/",
+      "category": "SaaS",
+      "metrics": {
+        "score": 2,
+        "comments": 0
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:59:38.532557"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sdnvx3",
+    "name": "Same task 10min every week - that you keep telling yourself you will automate but never do",
+    "description": "Mine is manually checking which trial users signed up more than 7 days ago and have not logged in since. I open Supabase run the same query, copy the emails into a spreadsheet, and then half the time do nothing with it anyway because I ran out of energy. It is the same query every Monday. I have bee",
+    "url": "https://reddit.com/r/SaaS/comments/1sdnvx3/same_task_10min_every_week_that_you_keep_telling/",
+    "category": "SaaS",
+    "metrics": {
+      "score": 4,
+      "comments": 8
+    },
+    "detected_at": "2026-04-06T04:57:11.236956",
+    "raw_data": {
+      "id": "1sdnvx3",
+      "name": "Same task 10min every week - that you keep telling yourself you will automate but never do",
+      "description": "Mine is manually checking which trial users signed up more than 7 days ago and have not logged in since. I open Supabase run the same query, copy the emails into a spreadsheet, and then half the time do nothing with it anyway because I ran out of energy. It is the same query every Monday. I have bee",
+      "url": "https://reddit.com/r/SaaS/comments/1sdnvx3/same_task_10min_every_week_that_you_keep_telling/",
+      "category": "SaaS",
+      "metrics": {
+        "score": 4,
+        "comments": 8
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:59:40.562771"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sdmbon",
+    "name": "I recorded my first podcast today. Here are 5 marketing things I wish I knew sooner (but nobody talks about)",
+    "description": "So I finally did it. Hit record for the first time today.\n\nI got an invitation from a fellow reddit member to do a podcast with him today and it taught me more about marketing than any book ever could.\n\n1. Distribution is more important than content quality\n\nThis I learnt from our podcast host that ",
+    "url": "https://reddit.com/r/SaaS/comments/1sdmbon/i_recorded_my_first_podcast_today_here_are_5/",
+    "category": "SaaS",
+    "metrics": {
+      "score": 5,
+      "comments": 9
+    },
+    "detected_at": "2026-04-06T04:57:11.236965",
+    "raw_data": {
+      "id": "1sdmbon",
+      "name": "I recorded my first podcast today. Here are 5 marketing things I wish I knew sooner (but nobody talks about)",
+      "description": "So I finally did it. Hit record for the first time today.\n\nI got an invitation from a fellow reddit member to do a podcast with him today and it taught me more about marketing than any book ever could.\n\n1. Distribution is more important than content quality\n\nThis I learnt from our podcast host that ",
+      "url": "https://reddit.com/r/SaaS/comments/1sdmbon/i_recorded_my_first_podcast_today_here_are_5/",
+      "category": "SaaS",
+      "metrics": {
+        "score": 5,
+        "comments": 9
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:59:42.619385"
+  },
+  {
+    "source": "reddit",
+    "source_id": "1sdrpug",
+    "name": "anyone else seeing good reply rates but weaker meeting quality lately",
+    "description": "we run outbound into mid-market ops/sales teams. lately we have this weird pattern:\n\n* replies are okay\n* meeting booked rate is okay\n* but first calls are less qualified than 6 months ago\n\nit feels like we got better at getting attention, but not better at filtering intent.\n\nwe tested a few things:",
+    "url": "https://reddit.com/r/SaaS/comments/1sdrpug/anyone_else_seeing_good_reply_rates_but_weaker/",
+    "category": "SaaS",
+    "metrics": {
+      "score": 2,
+      "comments": 1
+    },
+    "detected_at": "2026-04-06T04:57:11.236974",
+    "raw_data": {
+      "id": "1sdrpug",
+      "name": "anyone else seeing good reply rates but weaker meeting quality lately",
+      "description": "we run outbound into mid-market ops/sales teams. lately we have this weird pattern:\n\n* replies are okay\n* meeting booked rate is okay\n* but first calls are less qualified than 6 months ago\n\nit feels like we got better at getting attention, but not better at filtering intent.\n\nwe tested a few things:",
+      "url": "https://reddit.com/r/SaaS/comments/1sdrpug/anyone_else_seeing_good_reply_rates_but_weaker/",
+      "category": "SaaS",
+      "metrics": {
+        "score": 2,
+        "comments": 1
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:59:44.672163"
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "source": "hackernews",
+    "source_id": "47655408",
+    "name": "Show HN: I built a tiny LLM to demystify how language models work",
+    "description": "Built a ~9M param LLM from scratch to understand how they actually work. Vanilla transformer, 60K synthetic conversations, ~130 lines of PyTorch. Trains in 5 min on a free Colab T4. The fish thinks the meaning of life is food.<p>Fork it and swap the personality for your own character.",
+    "url": "https://github.com/arman-bd/guppylm",
+    "category": "tech",
+    "metrics": {
+      "score": 358,
+      "comments": 31
+    },
+    "detected_at": "2026-04-06T04:57:08.309326",
+    "raw_data": {
+      "id": "47655408",
+      "name": "Show HN: I built a tiny LLM to demystify how language models work",
+      "description": "Built a ~9M param LLM from scratch to understand how they actually work. Vanilla transformer, 60K synthetic conversations, ~130 lines of PyTorch. Trains in 5 min on a free Colab T4. The fish thinks the meaning of life is food.<p>Fork it and swap the personality for your own character.",
+      "url": "https://github.com/arman-bd/guppylm",
+      "category": "tech",
+      "metrics": {
+        "score": 358,
+        "comments": 31
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:13.310341"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47652561",
+    "name": "Gemma 4 on iPhone",
+    "description": "",
+    "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+    "category": "tech",
+    "metrics": {
+      "score": 585,
+      "comments": 156
+    },
+    "detected_at": "2026-04-06T04:57:08.309360",
+    "raw_data": {
+      "id": "47652561",
+      "name": "Gemma 4 on iPhone",
+      "description": "",
+      "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+      "category": "tech",
+      "metrics": {
+        "score": 585,
+        "comments": 156
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:15.341677"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47656622",
+    "name": "An open-source 240-antenna array to bounce signals off the Moon",
+    "description": "",
+    "url": "https://moonrf.com/",
+    "category": "tech",
+    "metrics": {
+      "score": 78,
+      "comments": 12
+    },
+    "detected_at": "2026-04-06T04:57:08.309366",
+    "raw_data": {
+      "id": "47656622",
+      "name": "An open-source 240-antenna array to bounce signals off the Moon",
+      "description": "",
+      "url": "https://moonrf.com/",
+      "category": "tech",
+      "metrics": {
+        "score": 78,
+        "comments": 12
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:17.374934"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47651703",
+    "name": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+    "description": "See also <a href=\"https:&#x2F;&#x2F;x.com&#x2F;stevesi&#x2F;status&#x2F;2036921223150440542\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;stevesi&#x2F;status&#x2F;2036921223150440542</a> (<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;stevesi&#x2F;status&#x2F;2036921223150440542\" rel=\"nofollow\">https:&#",
+    "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+    "category": "tech",
+    "metrics": {
+      "score": 387,
+      "comments": 225
+    },
+    "detected_at": "2026-04-06T04:57:08.309371",
+    "raw_data": {
+      "id": "47651703",
+      "name": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+      "description": "See also <a href=\"https:&#x2F;&#x2F;x.com&#x2F;stevesi&#x2F;status&#x2F;2036921223150440542\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;stevesi&#x2F;status&#x2F;2036921223150440542</a> (<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;stevesi&#x2F;status&#x2F;2036921223150440542\" rel=\"nofollow\">https:&#",
+      "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+      "category": "tech",
+      "metrics": {
+        "score": 387,
+        "comments": 225
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:19.421916"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47652007",
+    "name": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+    "description": "Related: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47653752\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47653752</a>",
+    "url": "https://github.com/fikrikarim/parlor",
+    "category": "tech",
+    "metrics": {
+      "score": 56,
+      "comments": 2
+    },
+    "detected_at": "2026-04-06T04:57:08.309376",
+    "raw_data": {
+      "id": "47652007",
+      "name": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+      "description": "Related: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47653752\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47653752</a>",
+      "url": "https://github.com/fikrikarim/parlor",
+      "category": "tech",
+      "metrics": {
+        "score": 56,
+        "comments": 2
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:21.462713"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47656501",
+    "name": "The 1987 game “The Last Ninja” was 40 kilobytes",
+    "description": "",
+    "url": "https://twitter.com/exQUIZitely/status/2040777977521398151",
+    "category": "tech",
+    "metrics": {
+      "score": 68,
+      "comments": 25
+    },
+    "detected_at": "2026-04-06T04:57:08.309380",
+    "raw_data": {
+      "id": "47656501",
+      "name": "The 1987 game “The Last Ninja” was 40 kilobytes",
+      "description": "",
+      "url": "https://twitter.com/exQUIZitely/status/2040777977521398151",
+      "category": "tech",
+      "metrics": {
+        "score": 68,
+        "comments": 25
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:23.494604"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47655392",
+    "name": "Show HN: I made a YouTube search form with advanced filters",
+    "description": "",
+    "url": "https://playlists.at/youtube/search/",
+    "category": "tech",
+    "metrics": {
+      "score": 205,
+      "comments": 130
+    },
+    "detected_at": "2026-04-06T04:57:08.309384",
+    "raw_data": {
+      "id": "47655392",
+      "name": "Show HN: I made a YouTube search form with advanced filters",
+      "description": "",
+      "url": "https://playlists.at/youtube/search/",
+      "category": "tech",
+      "metrics": {
+        "score": 205,
+        "comments": 130
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:25.550288"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47637377",
+    "name": "LÖVE: 2D Game Framework for Lua",
+    "description": "",
+    "url": "https://github.com/love2d/love",
+    "category": "tech",
+    "metrics": {
+      "score": 283,
+      "comments": 111
+    },
+    "detected_at": "2026-04-06T04:57:08.309389",
+    "raw_data": {
+      "id": "47637377",
+      "name": "LÖVE: 2D Game Framework for Lua",
+      "description": "",
+      "url": "https://github.com/love2d/love",
+      "category": "tech",
+      "metrics": {
+        "score": 283,
+        "comments": 111
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:27.589108"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47637116",
+    "name": "Signals, the push-pull based algorithm",
+    "description": "",
+    "url": "https://willybrauner.com/journal/signal-the-push-pull-based-algorithm",
+    "category": "tech",
+    "metrics": {
+      "score": 27,
+      "comments": 5
+    },
+    "detected_at": "2026-04-06T04:57:08.309393",
+    "raw_data": {
+      "id": "47637116",
+      "name": "Signals, the push-pull based algorithm",
+      "description": "",
+      "url": "https://willybrauner.com/journal/signal-the-push-pull-based-algorithm",
+      "category": "tech",
+      "metrics": {
+        "score": 27,
+        "comments": 5
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:29.628218"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47655367",
+    "name": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+    "description": "Gemma Gem is a Chrome extension that loads Google&#x27;s Gemma 4 (2B) through WebGPU in an offscreen document and gives it tools to interact with any webpage: read content, take screenshots, click elements, type text, scroll, and run JavaScript.<p>You get a small chat overlay on every page. Ask it a",
+    "url": "https://github.com/kessler/gemma-gem",
+    "category": "tech",
+    "metrics": {
+      "score": 61,
+      "comments": 11
+    },
+    "detected_at": "2026-04-06T04:57:08.309398",
+    "raw_data": {
+      "id": "47655367",
+      "name": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+      "description": "Gemma Gem is a Chrome extension that loads Google&#x27;s Gemma 4 (2B) through WebGPU in an offscreen document and gives it tools to interact with any webpage: read content, take screenshots, click elements, type text, scroll, and run JavaScript.<p>You get a small chat overlay on every page. Ask it a",
+      "url": "https://github.com/kessler/gemma-gem",
+      "category": "tech",
+      "metrics": {
+        "score": 61,
+        "comments": 11
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:31.673369"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "source": "hackernews",
+    "source_id": "47655408",
+    "name": "Show HN: I built a tiny LLM to demystify how language models work",
+    "description": "Built a ~9M param LLM from scratch to understand how they actually work. Vanilla transformer, 60K synthetic conversations, ~130 lines of PyTorch. Trains in 5 min on a free Colab T4. The fish thinks the meaning of life is food.<p>Fork it and swap the personality for your own character.",
+    "url": "https://github.com/arman-bd/guppylm",
+    "category": "tech",
+    "metrics": {
+      "score": 358,
+      "comments": 31
+    },
+    "detected_at": "2026-04-06T04:57:08.309326",
+    "raw_data": {
+      "id": "47655408",
+      "name": "Show HN: I built a tiny LLM to demystify how language models work",
+      "description": "Built a ~9M param LLM from scratch to understand how they actually work. Vanilla transformer, 60K synthetic conversations, ~130 lines of PyTorch. Trains in 5 min on a free Colab T4. The fish thinks the meaning of life is food.<p>Fork it and swap the personality for your own character.",
+      "url": "https://github.com/arman-bd/guppylm",
+      "category": "tech",
+      "metrics": {
+        "score": 358,
+        "comments": 31
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:13.310341"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47652561",
+    "name": "Gemma 4 on iPhone",
+    "description": "",
+    "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+    "category": "tech",
+    "metrics": {
+      "score": 585,
+      "comments": 156
+    },
+    "detected_at": "2026-04-06T04:57:08.309360",
+    "raw_data": {
+      "id": "47652561",
+      "name": "Gemma 4 on iPhone",
+      "description": "",
+      "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+      "category": "tech",
+      "metrics": {
+        "score": 585,
+        "comments": 156
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:15.341677"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47656622",
+    "name": "An open-source 240-antenna array to bounce signals off the Moon",
+    "description": "",
+    "url": "https://moonrf.com/",
+    "category": "tech",
+    "metrics": {
+      "score": 78,
+      "comments": 12
+    },
+    "detected_at": "2026-04-06T04:57:08.309366",
+    "raw_data": {
+      "id": "47656622",
+      "name": "An open-source 240-antenna array to bounce signals off the Moon",
+      "description": "",
+      "url": "https://moonrf.com/",
+      "category": "tech",
+      "metrics": {
+        "score": 78,
+        "comments": 12
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:17.374934"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47651703",
+    "name": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+    "description": "See also <a href=\"https:&#x2F;&#x2F;x.com&#x2F;stevesi&#x2F;status&#x2F;2036921223150440542\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;stevesi&#x2F;status&#x2F;2036921223150440542</a> (<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;stevesi&#x2F;status&#x2F;2036921223150440542\" rel=\"nofollow\">https:&#",
+    "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+    "category": "tech",
+    "metrics": {
+      "score": 387,
+      "comments": 225
+    },
+    "detected_at": "2026-04-06T04:57:08.309371",
+    "raw_data": {
+      "id": "47651703",
+      "name": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+      "description": "See also <a href=\"https:&#x2F;&#x2F;x.com&#x2F;stevesi&#x2F;status&#x2F;2036921223150440542\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;stevesi&#x2F;status&#x2F;2036921223150440542</a> (<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;stevesi&#x2F;status&#x2F;2036921223150440542\" rel=\"nofollow\">https:&#",
+      "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+      "category": "tech",
+      "metrics": {
+        "score": 387,
+        "comments": 225
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:19.421916"
+  },
+  {
+    "source": "hackernews",
+    "source_id": "47652007",
+    "name": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+    "description": "Related: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47653752\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47653752</a>",
+    "url": "https://github.com/fikrikarim/parlor",
+    "category": "tech",
+    "metrics": {
+      "score": 56,
+      "comments": 2
+    },
+    "detected_at": "2026-04-06T04:57:08.309376",
+    "raw_data": {
+      "id": "47652007",
+      "name": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+      "description": "Related: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47653752\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47653752</a>",
+      "url": "https://github.com/fikrikarim/parlor",
+      "category": "tech",
+      "metrics": {
+        "score": 56,
+        "comments": 2
+      }
+    },
+    "moat_score": 5,
+    "monetization_model": "unknown",
+    "cultural_fit": 5,
+    "market_demand": 5,
+    "regulatory_ease": 5,
+    "tropicalization_score": 5,
+    "recommended_action": "medium",
+    "brief_analysis": "Análise automática não disponível",
+    "analyzed_at": "2026-04-06T04:57:21.462713"
+  }
+]
